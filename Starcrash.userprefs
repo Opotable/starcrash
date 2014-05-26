@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Mothership\ManagerMothership.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Spaceship\Physic\SBShip.cs" Line="91" Column="2" />
+      <File FileName="Assets\Scripts\Spaceship\Physic\SBHealth.cs" Line="120" Column="8" />
+      <File FileName="Assets\Scripts\Spaceship\Physic\SBWeapon.cs" Line="78" Column="8" />
+      <File FileName="Assets\Scripts\World\SimpleRotateCamera.cs" Line="8" Column="36" />
+      <File FileName="Assets\Scripts\Mothership\ManagerMothership.cs" Line="158" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
